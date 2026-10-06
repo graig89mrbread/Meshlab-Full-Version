@@ -241,4 +241,4 @@ This repository serves as the official landing page for MeshLab. The software is
 **Get the most recent version of MeshLab today!**
 
 ---
-**Last updated:** 2026-10-06 04:19:26 UTC
+**Last updated:** 2026-10-06 11:40:04 UTC
